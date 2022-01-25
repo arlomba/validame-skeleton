@@ -35,6 +35,6 @@ La aplicación debería estar ejecutándose en: http://localhost:3000
 - **David Prez** ([@k87c](https://github.com/k87c))
 - **Hugo Álvarez** ([@](https://github.com/))
 - **Iago Fernández** ([@IagoFernandezBlanco](https://github.com/IagoFernandezBlanco))
-- **João Francisco** ([@](https://github.com/))
+- **João Francisco** ([@Jowy69](https://github.com/Jowy69))
 - **Leonar Estupiñan** ([@](https://github.com/))
 - **Paula Iglesias** ([@](https://github.com/))
