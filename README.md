@@ -30,7 +30,7 @@ La aplicación debería estar ejecutándose en: http://localhost:3000
 - **Adrián González** ([@AdrianGonzalezFilgueira](https://github.com/AdrianGonzalezFilgueira))
 - **Adrián Rey** ([@arlomba](https://github.com/arlomba))
 - **Alejandro Alonso** ([@AlexPortas](https://github.com/AlexPortas))
-- **Ángel Amado** ([@](https://github.com/angel-amado))
+- **Ángel Amado** ([@angel-amado](https://github.com/angel-amado))
 - **David Gómez** ([@davidgomezfrieiro](https://github.com/davidgomezfrieiro))
 - **David Prez** ([@k87c](https://github.com/k87c))
 - **Hugo Álvarez** ([@](https://github.com/))
