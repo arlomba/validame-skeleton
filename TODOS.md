@@ -12,6 +12,8 @@
 - [ ] Mejorar el diseño responsive.
 - [ ] Buscar fuentes adecuadas en Google Fonts.
 - [ ] Añadir interactividad; Efectos, animaciones...
+- [ ] Utilizar HTML semántico donde sea posible para mejorar el SEO.
+- [ ] Añadir etiquetas meta para mejorar el SEO.
 
 ### Dificultad: Media / Avanzada
 
@@ -21,6 +23,9 @@
 - [ ] Editar / Borrar formularios creados.
 - [ ] Solucionar redirección de http y https.
 - [ ] Optimizar imágenes y recursos externos (JavaScript, CSS).
+- [ ] Implementar iniciar sesión con LinkedIn.
+- [ ] Implementar subida de archivos.
+- [ ] Realizar auditorías de seguridad.
 
 ## Recursos
 
